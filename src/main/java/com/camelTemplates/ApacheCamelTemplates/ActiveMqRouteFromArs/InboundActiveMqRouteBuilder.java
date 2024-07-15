@@ -1,5 +1,6 @@
 package com.camelTemplates.ApacheCamelTemplates.ActiveMqRouteFromArs;
 
-public class ActiveMQRouteFromArs {
+public class InboundActiveMqRouteBuilder {
+	
 
 }
